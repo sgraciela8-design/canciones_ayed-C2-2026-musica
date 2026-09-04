@@ -4,13 +4,13 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 
 ## Integrantes
 
-| Nombre | Mail | GitHub |
-| --- | --- | --- |
-|  |  |  |
+| Franco Poblet Acosta | pobleteezequiel@gmail.com | francojob2024-arch |
+| Graciela A. Segura | gracielaadriana68@gmail.com | sgraciela8-design |
+| Julio Soldano | jula76@gmail.com  |  |
 |  |  |  |
 |  |  |  |
 
-**Tema elegido:** Pokédex / Recetario / Biblioteca musical (dejar uno)
+**Tema elegido:** Biblioteca musical 
 
 ## Cómo ejecutar
 
@@ -28,7 +28,7 @@ Solo biblioteca estándar. No hay `requirements.txt` a propósito.
 
 Cada vencimiento se marca con un tag. Ver `GIT.md`.
 
-| Tag | Vence |
+| tag.`entrega-1` | domingo 06-sep-2026 23:59 |
 | --- | --- |
 | `preentrega` (opcional, solo repo) | domingo 30-ago-2026 23:59 |
 | `entrega-1` | domingo 06-sep-2026 23:59 |
