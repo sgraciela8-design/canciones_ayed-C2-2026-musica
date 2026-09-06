@@ -1,0 +1,7 @@
+Titulo, Artista, Album, Género, Año
+Crimen, Gustavo Cerati, Rock, 2006
+Here comes the sun, The Beatles, Abbey Road, Rock, 1969
+Smells like teen spirit, Nirvana, Nevermind, Rock, 1991
+Creep, Radiohead, Ok Computer, Rock,1992
+505, Artic Monkeys, Favourite Worts, Rock,2013
+Demoliendo Hoteles, Charly García, Piano Bar, Rock, 1984
