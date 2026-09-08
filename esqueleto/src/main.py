@@ -1,4 +1,4 @@
-from src.config import TEMA
+import src.config
 
 TEMAS = {
     "pokedex": "Pokédex",
@@ -12,7 +12,7 @@ def pendiente():
 
 
 def mostrar_menu():
-    nombre = TEMAS.get(TEMA, TEMA or "(sin tema)")
+    nombre = TEMAS.get(src.config.TEMA, src.config.TEMA or "(sin tema)")
     print()
     print(f"=== {nombre} — AyED C2 2026 ===")
     print("1. Listar catálogo")
@@ -28,7 +28,7 @@ def mostrar_menu():
 
 
 def main():
-    if TEMA not in TEMAS:
+    if src.config.TEMA not in TEMAS:
         print("Seteá TEMA en src/config.py: 'pokedex', 'recetario' o 'musica'.")
         return
 

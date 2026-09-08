@@ -1,5 +1,6 @@
 # TP integrador — AyED C2 2026
 
+
 Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src/` ni de `docs/`.
 
 ## Integrantes

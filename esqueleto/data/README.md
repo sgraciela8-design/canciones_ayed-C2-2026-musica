@@ -1,5 +1,22 @@
 # Datasets
 
+# Lista global para almacenar las canciones
+lista_canciones = []
+
+def agregar_cancion(titulo, artista, album):
+    cancion = {"titulo": titulo, "artista": artista, "album": album}
+    lista_canciones.append(cancion)
+    print(f"🎵 ¡'{titulo}' agregada con éxito!")
+
+def mostrar_catalogo():
+    if not lista_canciones:
+        print("📭 El catálogo está vacío.")
+        return
+    print("\n--- CÁTALOGO DE CANCIONES ---")
+    for i, c in enumerate(lista_canciones, 1):
+        print(f"{i}. {c['titulo']} - {c['artista']} ({c['album']})")
+
+
 Elegí **un** tema. Los CSV de los otros dos se pueden dejar en la carpeta; no hace falta borrarlos.
 
 Codificación: UTF-8. Separador: coma. La primera fila es encabezado.
@@ -11,3 +28,4 @@ Codificación: UTF-8. Separador: coma. La primera fila es encabezado.
 | Biblioteca musical | `canciones.csv`, `versiones.csv` | `cancion_id` es versión de `version_de_id` (`cover`, `live`, `remix`) |
 
 No hardcodees las filas en el código: leé los CSV.
+
