@@ -1,6 +1,17 @@
-Franco Poblet Acosta (pobleteezequiel@gmail.com), francojob2024-arch
-Graciela A. Segura (gracielaadriana68@gmail.com), sgraciela8-design
-Julio Soldano (jula76@gmail.com), 
-Tema : Biblioteca musical
-# canciones_ayed-C2-2026-musica
-Tp Algoritmos y Estructura de datos catálogo de canciones
+**Cátedra**  00184
+**Algoritmos y Estructura de datos**
+**Comisión** C2_2026
+**Tema** Biblioteca Musical
+
+**Integrantes**
+*Franco Poblet Acosta*
+Correo: pobletezequiel@gmail.com
+GitHub:[francojob2024-arch]
+
+*Graciela Adriana Segura*
+Correo: gracielaadriana68@gmail.com
+GitHub: [sgraciela8-design]
+
+*Julio Soldano*
+Correo: jula76@gmail.com
+GitHub: 
